@@ -7,5 +7,30 @@
             "FileNumber": 2312321,
             "NationalId": 2123123
         }
-    ]
+    ],
+    
+  "actionName": [
+    {
+      "Name": "للهغغت",
+      "PatientId": 1,
+      "id": 1
+    },
+    {
+      "Name": "s",
+      "PatientId": 1,
+      "id": 2
+    },
+    {
+      "Name": "axasx",
+      "PatientId": 1,
+      "id": 3
+    },
+    {
+      "Name": "dassa",
+      "PatientId": 1,
+      "id": 4
+    }
+  ],
+
+    "optionalForm": []
 }
