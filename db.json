@@ -33,5 +33,22 @@
     }
   ],
 
-    "optionalForm": []
+    "optionalForm": [
+        {
+        "ActionId": 5,
+"CTReportDoc": "",
+"Comment": "",
+"CommitmentDoc": "",
+"LabReportDoc": "",
+"MRIReportDoc": "",
+"MamoReportDoc": {},
+"Name": "sas",
+"PETReportDoc": "",
+'PathologyDoc": {},
+'PatientId": 1,
+"SonoReportDoc": "",
+"TreatmentDoc": "",
+"id": 1
+    }
+  ]
 }
