@@ -5,50 +5,290 @@
             "Name": "احمد",
             "FamilyName": "رضایی",
             "FileNumber": 2312321,
-            "NationalId": 2123123,
-            "Comment": ""
+            "NationalId": 2123123
+        },
+        {
+            "id": 2,
+            "Name": "رضا",
+            "FamilyName": "احمدیان",
+            "FileNumber": 2312321,
+            "NationalId": 2123123
+        },
+        {
+            "id": 3,
+            "Name": "احمد",
+            "FamilyName": "رضایی",
+            "FileNumber": 2312321,
+            "NationalId": 2123123
+        },
+        {
+            "id": 4,
+            "Name": "محمد",
+            "FamilyName": "ذوقی",
+            "FileNumber": 2312321,
+            "NationalId": 2123123
+        },
+        {
+            "id": 5,
+            "Name": "پریا",
+            "FamilyName": "محمدی",
+            "FileNumber": 2312321,
+            "NationalId": 2123123
+        },
+        {
+            "id": 6,
+            "Name": "احمد",
+            "FamilyName": "رضایی",
+            "FileNumber": 2312321,
+            "NationalId": 2123123
         }
     ],
-    
-  "actionName": [
-    {
-      "Name": "للهغغت",
-      "PatientId": 1,
-      "id": 1
-    },
-    {
-      "Name": "s",
-      "PatientId": 1,
-      "id": 2
-    },
-    {
-      "Name": "axasx",
-      "PatientId": 1,
-      "id": 3
-    },
-    {
-      "Name": "dassa",
-      "PatientId": 1,
-      "id": 4
-    }
-  ],
+      
+    "actionName": [
+      {
+        "Name": "مورد 1",
+        "PatientId": 1,
+        "id": 1
+      },
+      {
+        "Name": "مورد 2",
+        "PatientId": 1,
+        "id": 2
+      },
+      {
+        "Name": "مورد 3",
+        "PatientId": 1,
+        "id": 3
+      },
+      {
+        "Name": "مورد 1",
+        "PatientId": 2,
+        "id": 4
+      },
+      {
+        "Name": "مورد 2",
+        "PatientId": 2,
+        "id": 5
+      },
+      {
+        "Name": "مورد 3",
+        "PatientId": 2,
+        "id": 6
+      },
+      {
+        "Name": "مورد 1",
+        "PatientId": 3,
+        "id": 7
+      },
+      {
+        "Name": "مورد 2",
+        "PatientId": 3,
+        "id": 8
+      },
+      {
+        "Name": "مورد 3",
+        "PatientId": 3,
+        "id": 9
+      },
+      {
+        "Name": "مورد 1",
+        "PatientId": 4,
+        "id": 10
+      },
+      {
+        "Name": "مورد 2",
+        "PatientId": 4,
+        "id": 11
+      },
+      {
+        "Name": "مورد 3",
+        "PatientId": 4,
+        "id": 12
+      },
+      {
+        "Name": "مورد 1",
+        "PatientId": 5,
+        "id": 13
+      },
+      {
+        "Name": "مورد 2",
+        "PatientId": 5,
+        "id": 14
+      },
+      {
+        "Name": "مورد 1",
+        "PatientId": 6,
+        "id": 15
+      },
+      {
+        "Name": "مورد 2",
+        "PatientId": 6,
+        "id": 16
+      }
+    ],
 
     "optionalForm": [
         {
-        "ActionId": 5,
-"CTReportDoc": "",
-"Comment": "",
-"CommitmentDoc": "",
-"LabReportDoc": "",
-"MRIReportDoc": "",
-"MamoReportDoc": {},
-"Name": "sas",
-"PETReportDoc": "",
-"PathologyDoc": {},
-"PatientId": 1,
-"SonoReportDoc": "",
-"TreatmentDoc": "",
-"id": 1
-    }
-  ]
+            "ActionId": 1,
+            "CTReportDoc": "",
+            "Comment": "",
+            "CommitmentDoc": "",
+            "LabReportDoc": {},
+            "MRIReportDoc": "",
+            "MamoReportDoc": {},
+            "Name": "مورد 1",
+            "PETReportDoc": "",
+            "PathologyDoc": {},
+            "PatientId": 1,
+            "SonoReportDoc": "",
+            "TreatmentDoc": "",
+            "id": 1
+        },
+        {
+            "ActionId": 2,
+            "CTReportDoc": "",
+            "Comment": "",
+            "CommitmentDoc": "",
+            "LabReportDoc": "",
+            "MRIReportDoc": "",
+            "MamoReportDoc": {},
+            "Name": "مورد 2",
+            "PETReportDoc": "",
+            "PathologyDoc": {},
+            "PatientId": 1,
+            "SonoReportDoc": "",
+            "TreatmentDoc": "",
+            "id": 2
+        },
+        {
+            "ActionId": 3,
+            "CTReportDoc": "",
+            "Comment": "",
+            "CommitmentDoc": "",
+            "LabReportDoc": "",
+            "MRIReportDoc": "",
+            "MamoReportDoc": {},
+            "Name": "مورد 3",
+            "PETReportDoc": {},
+            "PathologyDoc": {},
+            "PatientId": 2,
+            "SonoReportDoc": "",
+            "TreatmentDoc": "",
+            "id": 3
+        },
+        {
+            "ActionId": 4,
+            "CTReportDoc": "",
+            "Comment": "",
+            "CommitmentDoc": "",
+            "LabReportDoc": "",
+            "MRIReportDoc": "",
+            "MamoReportDoc": {},
+            "Name": "مورد 4",
+            "PETReportDoc": "",
+            "PathologyDoc": {},
+            "PatientId": 2,
+            "SonoReportDoc": "",
+            "TreatmentDoc": "",
+            "id": 4
+        },
+        {
+            "ActionId": 5,
+            "CTReportDoc": "",
+            "Comment": "",
+            "CommitmentDoc": {},
+            "LabReportDoc": "",
+            "MRIReportDoc": "",
+            "MamoReportDoc": {},
+            "Name": "مورد 5",
+            "PETReportDoc": "",
+            "PathologyDoc": {},
+            "PatientId": 3,
+            "SonoReportDoc": "",
+            "TreatmentDoc": "",
+            "id": 5
+        },
+        {
+            "ActionId": 6,
+            "CTReportDoc": "",
+            "Comment": "",
+            "CommitmentDoc": "",
+            "LabReportDoc": "",
+            "MRIReportDoc": "",
+            "MamoReportDoc": {},
+            "Name": "مورد 6",
+            "PETReportDoc": "",
+            "PathologyDoc": {},
+            "PatientId": 3,
+            "SonoReportDoc": "",
+            "TreatmentDoc": "",
+            "id": 6
+        },
+        {
+            "ActionId": 7,
+            "CTReportDoc": "",
+            "Comment": "",
+            "CommitmentDoc": "",
+            "LabReportDoc": {},
+            "MRIReportDoc": "",
+            "MamoReportDoc": {},
+            "Name": "مورد 7",
+            "PETReportDoc": "",
+            "PathologyDoc": {},
+            "PatientId": 4,
+            "SonoReportDoc": "",
+            "TreatmentDoc": "",
+            "id": 7
+        },
+        {
+            "ActionId": 8,
+            "CTReportDoc": "",
+            "Comment": "",
+            "CommitmentDoc": "",
+            "LabReportDoc": "",
+            "MRIReportDoc": "",
+            "MamoReportDoc": {},
+            "Name": "مورد 8",
+            "PETReportDoc": "",
+            "PathologyDoc": {},
+            "PatientId": 4,
+            "SonoReportDoc": "",
+            "TreatmentDoc": "",
+            "id": 8
+        },
+        {
+            "ActionId": 9,
+            "CTReportDoc": "",
+            "Comment": "",
+            "CommitmentDoc": "",
+            "LabReportDoc": "",
+            "MRIReportDoc": "",
+            "MamoReportDoc": {},
+            "Name": "مورد 9",
+            "PETReportDoc": "",
+            "PathologyDoc": {},
+            "PatientId": 5,
+            "SonoReportDoc": "",
+            "TreatmentDoc": "",
+            "id": 9
+        },
+        {
+            "ActionId": 10,
+            "CTReportDoc": "",
+            "Comment": "",
+            "CommitmentDoc": {},
+            "LabReportDoc": {},
+            "MRIReportDoc": "",
+            "MamoReportDoc": {},
+            "Name": "مورد 10",
+            "PETReportDoc": "",
+            "PathologyDoc": {},
+            "PatientId": 5,
+            "SonoReportDoc": "",
+            "TreatmentDoc": "",
+            "id": 10
+        }
+    ]
+
+  }
 }
